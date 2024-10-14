@@ -1,0 +1,15 @@
+body{
+  font-family: arial;
+  text-align: center;
+}
+#roll{
+  padding: 10px 25px;
+  background-color: aquamarine;
+  border: none;
+  border-radius:3px;
+  border: 1px solid grey;
+  cursor: pointer;
+}
+#roll:hover{
+  background-color: aqua;
+}
